@@ -5,6 +5,7 @@
 Sou Dev Backend & PM, além de cursar Tecnologia em Sistemas para Internet no IFSP.
 
 <br clear="right"/>
+
 ## Minhas Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -20,9 +21,6 @@ Sou Dev Backend & PM, além de cursar Tecnologia em Sistemas para Internet no IF
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white)
-
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ralphsblue&show_icons=true&theme=tokyonight)
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bertolez/)
